@@ -1,0 +1,1 @@
+# bybit-trade-averaging-tool
